@@ -1,3 +1,0 @@
-[submodule "templates/catalog"]
-	path = templates/catalog
-	url = https://github.com/itsmethemojo/helm-charts.git
