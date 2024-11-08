@@ -1,0 +1,10 @@
+apiVersion: v2
+name: tekton-tasks
+description: A Helm chart to install some useful tasks from tekton hub
+type: application
+version: 0.1.0
+sources:
+ - https://hub.tekton.dev/tekton/task/kaniko
+ - https://hub.tekton.dev/tekton/task/git-clone
+ - https://hub.tekton.dev/tekton/task/github-set-status
+ 
