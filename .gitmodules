@@ -1,3 +1,3 @@
 [submodule "templates/catalog"]
 	path = templates/catalog
-	url = git@github.com:tektoncd/catalog.git
+	url = https://github.com/itsmethemojo/helm-charts.git
